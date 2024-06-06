@@ -1,1 +1,1 @@
-"segundo hola mundo" 
+print ("hola mundo")
